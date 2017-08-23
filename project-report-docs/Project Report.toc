@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {subsection}{\numberline {1.1}Project Goals}{2}
+\contentsline {subsection}{\numberline {1.2}Dataset}{2}
+\contentsline {subsection}{\numberline {1.3}Project Outline}{3}
+\contentsline {section}{\numberline {2}Data Wrangling}{3}
+\contentsline {subsection}{\numberline {2.1}Respondent Filtering}{4}
+\contentsline {subsection}{\numberline {2.2}Feature Filtering}{4}
+\contentsline {subsection}{\numberline {2.3}Feature Encoding}{5}
+\contentsline {section}{\numberline {3}Exploratory Data Analysis}{7}
+\contentsline {subsection}{\numberline {3.1}Unbalanced Data}{7}
+\contentsline {subsection}{\numberline {3.2}Low-dimensional Visualization}{9}
+\contentsline {subsection}{\numberline {3.3}Binary Features}{10}
+\contentsline {subsection}{\numberline {3.4}Continuous and Quasi-Continuous Features}{12}
+\contentsline {subsection}{\numberline {3.5}Ordinal and Derived Binary Features}{16}
+\contentsline {subsection}{\numberline {3.6}Categorical Features}{20}
+\contentsline {section}{\numberline {4}Feature Selection}{21}
+\contentsline {subsection}{\numberline {4.1}Baseline Performance}{22}
+\contentsline {subsection}{\numberline {4.2}Recursive Feature Elimination}{22}
+\contentsline {subsection}{\numberline {4.3}Feature Modifications}{23}
+\contentsline {section}{\numberline {5}Parameter Tuning and Testing Models}{24}
+\contentsline {subsection}{\numberline {5.1}Testing Model Performance on Unseen Data}{24}
+\contentsline {subsection}{\numberline {5.2}Soft Voting Classifier}{25}
+\contentsline {section}{\numberline {6}Testing Polling Errors}{26}
+\contentsline {subsection}{\numberline {6.1}Survey-based Prediction}{26}
+\contentsline {subsection}{\numberline {6.2}Model-based Prediction}{26}
+\contentsline {subsection}{\numberline {6.3}Polling Error Analysis}{27}
+\contentsline {subsection}{\numberline {6.4}Recall Analysis}{29}
+\contentsline {section}{\numberline {7}Conclusion}{31}

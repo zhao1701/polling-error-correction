@@ -1,0 +1,100 @@
+\relax 
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Project Goals}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Dataset}{2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Project Outline}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Data Wrangling}{3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces \textbf  {Project flow}\relax }}{4}}
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:project_flow}{{1}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Respondent Filtering}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Feature Filtering}{4}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces \textbf  {Respondent filtering}\relax }}{5}}
+\newlabel{table:respondent_filtering}{{1}{5}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces \textbf  {Feature filtering}\relax }}{5}}
+\newlabel{table:feature_filtering}{{2}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Feature Encoding}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Exploratory Data Analysis}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Unbalanced Data}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces \textbf  {Number of respondents per election year}\relax }}{7}}
+\newlabel{fig:num_respondents_by_year}{{2}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces \textbf  {Voter turnout by election year}. Because data from 2012 is used exclusively as test data, it is excluded from further analysis so that it cannot influence decisions that should be made solely by examining training data. (a) Far more respondents claim to have voted than those who do not. (b) Sampling weights are applied to infer the proportion of the VEP that voted in each election.\relax }}{8}}
+\newlabel{fig:nonvoters_by_year}{{3}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces \textbf  {Voter turnout data differs by source}. According to the United States Elections Project, between 0.54 and 0.62 of the VEP has participated in national elections from 2000 to 2008. However, according to ANES, this range is from 0.72 to 0.78.\relax }}{8}}
+\newlabel{fig:voter_turnout}{{4}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Low-dimensional Visualization}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces \textbf  {Projecting respondent data onto a three-dimensional subspace using PCA}. The absence of obvious clustering or separation in the data shows how similar voters and non-voters can appear.\relax }}{9}}
+\newlabel{fig:pca}{{5}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces \textbf  {Embedding respondent data onto a three-dimensional subspace using t-SNE}. Like the PCA visualization, the absence of obvious clustering or separation in the data shows how similar voters and non-voters can appear. Yet, the distribution of voters and non-voters is not completely random or uniform either.\relax }}{9}}
+\newlabel{fig:tsne}{{6}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Binary Features}{10}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces \textbf  {Binary features most correlated with vote participation}. The features are displayed in descending order by absolute value of Pearson correlation coefficient. The third column shows the absolute value of the difference in non-voter proportions for that feature's two categories.\relax }}{10}}
+\newlabel{table:binary_features_most_correlated}{{3}{10}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces \textbf  {Binary features least correlated with vote participation}. The features are displayed in ascending order by absolute value of Pearson correlation coefficient.\relax }}{11}}
+\newlabel{table:binary_features_least_correlated}{{4}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces \textbf  {Correlation and feature rank}. (a) All correlation coefficients of binary features with vote participation are quite low. (b) Most differences in non-voter proportions are also quite low. The peaks and valleys produced from ranking the difference of non-voter proportions by their corresponding correlations shows how features with high differences can be significantly less correlated with vote participation than features with lower differences.\relax }}{11}}
+\newlabel{fig:binary_correlation}{{7}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Continuous and Quasi-Continuous Features}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces \textbf  {Age distribution of voters and non-voters}\relax }}{12}}
+\newlabel{fig:age_distribution}{{8}{12}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces \textbf  {Most correlated quasi-continuous features}. The feature pairs are displayed in descending order by absolute value of Pearson correlation coefficient.\relax }}{13}}
+\newlabel{table:thermometer_most_correlated}{{5}{13}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces \textbf  {Expected anti-correlated features}. The Pearson correlation coefficients here are calculated using sampling weights.\relax }}{13}}
+\newlabel{table:thermometer_anti_correlated}{{6}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces \textbf  {Histograms of quasi-continuous features}. \relax }}{14}}
+\newlabel{fig:thermometer_distribution}{{9}{14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces \textbf  {Proportion of non-voters by bin}\relax }}{15}}
+\newlabel{fig:thermometer_nonvoters}{{10}{15}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Ordinal and Derived Binary Features}{16}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces foo bar}}{16}}
+\newlabel{fig:ordinal_scale}{{11}{16}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces \textbf  {Proportion of non-voters per spending preference}\relax }}{17}}
+\newlabel{fig:ordinal_spending}{{12}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces \textbf  {Proportion of non-voters per response for miscellaneous ordinal features}\relax }}{18}}
+\newlabel{fig:ordinal_other}{{13}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces \textbf  {Respondents who answer "don't know" have higher non-voter proportions}\relax }}{19}}
+\newlabel{fig:ordinal_dk}{{14}{19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces \textbf  {Non-voter proportions by total number of "don't know" responses}\relax }}{20}}
+\newlabel{fig:ordinal_dk_total}{{15}{20}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6}Categorical Features}{20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces \textbf  {Non-voter proportions by ethnicity}\relax }}{20}}
+\newlabel{fig:categorical_race}{{16}{20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces \textbf  {Non-voter proportions by religion}\relax }}{21}}
+\newlabel{fig:categorical_religion}{{17}{21}}
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces \textbf  {Non-voter proportions by vote intention}\relax }}{21}}
+\newlabel{fig:categorical_intent}{{18}{21}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Feature Selection}{21}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Baseline Performance}{22}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces \textbf  {Baseline F1-scores for each model across training sets}\relax }}{22}}
+\newlabel{table:baseline}{{7}{22}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Recursive Feature Elimination}{22}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces \textbf  {F1-scores for each model across training sets with recursively eliminated features}\relax }}{23}}
+\newlabel{table:rfe}{{8}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Feature Modifications}{23}}
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces \textbf  {Optimal feature sets and resulting F1-scores}. This table shows the mean F1-score calculated through 5-fold cross validation, the feature modifications performed prior to selection using RFE, and the number of features selected for each model. The pre-RFE modifications follow the labels introduced at the beginning of subsection 4.3.\relax }}{24}}
+\newlabel{table:rfe_combination}{{9}{24}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Parameter Tuning and Testing Models}{24}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Testing Model Performance on Unseen Data}{24}}
+\@writefile{lot}{\contentsline {table}{\numberline {10}{\ignorespaces \textbf  {F1-scores for training data following hyper-parameter tuning}\relax }}{25}}
+\newlabel{table:tuning_training_results}{{10}{25}}
+\@writefile{lot}{\contentsline {table}{\numberline {11}{\ignorespaces \textbf  {Model performance on test data}. For each model and target year, the model's performance is scored using the F1-score, precision, and recall.\relax }}{25}}
+\newlabel{table:tuning_testing_results}{{11}{25}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Soft Voting Classifier}{25}}
+\@writefile{lot}{\contentsline {table}{\numberline {12}{\ignorespaces \textbf  {Soft voting classifier performance on training and test data}. For each target the year, the training data consists of all respondents from previous years no earlier than 2000.\relax }}{25}}
+\newlabel{table:soft_voting_results}{{12}{25}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Testing Polling Errors}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Survey-based Prediction}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Model-based Prediction}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Polling Error Analysis}{27}}
+\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces \textbf  {Actual and predicted popular vote results and corresponding errors}. The left plots show the proportion of voters that voted for each presidential candidate according to actual popular vote data, a survey-based prediction, and a model-based prediction. The right plots show the errors of the two predictive methods measured against the actual popular vote.\relax }}{28}}
+\newlabel{fig:survey_model_error}{{19}{28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {20}{\ignorespaces \textbf  {Actual and predicted popular vote margins}. The margin is calculated as the proportion of votes cast for the Republican candidate substracted from the proportion of votes cast for the Democratic candidate.\relax }}{29}}
+\newlabel{fig:margin}{{20}{29}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.4}Recall Analysis}{29}}
+\@writefile{lof}{\contentsline {figure}{\numberline {21}{\ignorespaces \textbf  {Effect of training recall on predicted vote results}. The crosses indicate the recall and vote proportion for which a perfect prediction is made.\relax }}{29}}
+\newlabel{fig:recall}{{21}{29}}
+\@writefile{lof}{\contentsline {figure}{\numberline {22}{\ignorespaces \textbf  {Non-voter proportions by vote intention for 2012}. The proportion of respondents indicating they will note vote is much lower than in previous election years, and the non-vote proportion of respondents indicating they will not vote is lower than in previous years (Figure 18\hbox {}).\relax }}{30}}
+\newlabel{fig:categorical_intent_2012}{{22}{30}}
+\@writefile{lof}{\contentsline {figure}{\numberline {23}{\ignorespaces \textbf  {Effect of training recall on predicted vote margin} The margin is calculated as the proportion of votes cast for the Republican candidate substracted from the proportion of votes cast for the Democratic candidate. The crosses indicate the recall and margin for which a perfect prediction is made.\relax }}{30}}
+\newlabel{fig:recall_margin}{{23}{30}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Conclusion}{31}}

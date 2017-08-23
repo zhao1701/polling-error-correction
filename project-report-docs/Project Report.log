@@ -1,0 +1,894 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  15 MAY 2017 20:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Project Report.tex"
+(./Project Report.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks26
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count102
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen122
+\extrarowheight=\dimen123
+\NC@list=\toks27
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen124
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@tempdima=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
+)
+\c@ContinuedFloat=\count103
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+\c@subfigure=\count104
+\c@subtable=\count105
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip51
+\enit@outerparindent=\dimen132
+\enit@toks=\toks28
+\enit@inbox=\box28
+\enitdp@description=\count106
+)
+(./Project Report.aux)
+\openout1 = `"Project Report.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen133
+\scratchbox=\box29
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen134
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks30
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(./Project Report.toc)
+\tf@toc=\write3
+\openout3 = `"Project Report.toc"'.
+
+ [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 40.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--53
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
+
+ []
+
+<Images/project_flow.pdf, id=18, 504.88625pt x 315.1775pt>
+File: Images/project_flow.pdf Graphic file (type pdf)
+
+<use Images/project_flow.pdf>
+Package pdftex.def Info: Images/project_flow.pdf used on input line 76.
+(pdftex.def)             Requested size: 469.75502pt x 293.25151pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+[]|\OT1/cmr/m/n/10 Number
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+\OT1/cmr/m/n/10 re-spon-dents
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+[]|\OT1/cmr/m/n/10 Number
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+\OT1/cmr/m/n/10 re-spon-dents
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
+
+ []
+
+[4 <./Images/project_flow.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]|\OT1/cmr/m/n/10 Number
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+\OT1/cmr/m/n/10 fea-tures
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[]|\OT1/cmr/m/n/10 Number
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\OT1/cmr/m/n/10 fea-tures
+ []
+
+[5] [6] <Images/num_respondents_by_year.png, id=38, 392.4261pt x 229.0959pt>
+File: Images/num_respondents_by_year.png Graphic file (type png)
+
+<use Images/num_respondents_by_year.png>
+Package pdftex.def Info: Images/num_respondents_by_year.png used on input line 
+216.
+(pdftex.def)             Requested size: 281.85587pt x 164.5504pt.
+
+<Images/nonvoters_by_year.png, id=41, 715.473pt x 281.853pt>
+File: Images/nonvoters_by_year.png Graphic file (type png)
+
+<use Images/nonvoters_by_year.png>
+Package pdftex.def Info: Images/nonvoters_by_year.png used on input line 227.
+(pdftex.def)             Requested size: 469.75502pt x 185.05159pt.
+
+<Images/voter_turnout.png, id=43, 328.8285pt x 218.2554pt>
+File: Images/voter_turnout.png Graphic file (type png)
+
+<use Images/voter_turnout.png>
+Package pdftex.def Info: Images/voter_turnout.png used on input line 236.
+(pdftex.def)             Requested size: 234.8775pt x 155.90155pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--242
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./Images/num_respondents_by_year.png>]
+<Images/pca.png, id=51, 544.1931pt x 415.5525pt>
+File: Images/pca.png Graphic file (type png)
+ <use Images/pca.png>
+Package pdftex.def Info: Images/pca.png used on input line 248.
+(pdftex.def)             Requested size: 211.38832pt x 161.41806pt.
+
+<Images/tsne.png, id=53, 544.1931pt x 415.5525pt>
+File: Images/tsne.png Graphic file (type png)
+ <use Images/tsne.png>
+Package pdftex.def Info: Images/tsne.png used on input line 257.
+(pdftex.def)             Requested size: 211.38832pt x 161.41806pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--263
+
+ []
+
+[8 <./Images/nonvoters_by_year.png> <./Images/voter_turnout.png>] [9 <./Images/
+pca.png> <./Images/tsne.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 266--269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+[]|\OT1/cmr/m/n/10 Difference NV
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 298--298
+[]|\OT1/cmr/m/n/10 Does re-spon-dent like any-thing about the Demo-cratic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+[]|\OT1/cmr/m/n/10 Difference NV
+ []
+
+<Images/binary_correlation.png, id=69, 618.6312pt x 226.9278pt>
+File: Images/binary_correlation.png Graphic file (type png)
+
+<use Images/binary_correlation.png>
+Package pdftex.def Info: Images/binary_correlation.png used on input line 351.
+(pdftex.def)             Requested size: 375.80544pt x 137.8544pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--356
+
+ []
+
+[10] [11 <./Images/binary_correlation.png>]
+<Images/age.png, id=79, 643.203pt x 281.1303pt>
+File: Images/age.png Graphic file (type png)
+ <use Images/age.png>
+Package pdftex.def Info: Images/age.png used on input line 363.
+(pdftex.def)             Requested size: 469.75502pt x 205.32207pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+[]|\OT1/cmr/m/n/10 Correlation
+ []
+
+
+Overfull \hbox (7.03624pt too wide) in paragraph at lines 375--436
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+[]|\OT1/cmr/m/n/10 Correlation
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Images/thermometer_distribution.png, id=81, 1181.6145pt x 1403.4834pt>
+File: Images/thermometer_distribution.png Graphic file (type png)
+
+<use Images/thermometer_distribution.png>
+Package pdftex.def Info: Images/thermometer_distribution.png used on input line
+ 471.
+(pdftex.def)             Requested size: 469.75502pt x 557.95695pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Images/thermometer_nonvoters.png, id=83, 1004.553pt x 1003.8303pt>
+File: Images/thermometer_nonvoters.png Graphic file (type png)
+
+<use Images/thermometer_nonvoters.png>
+Package pdftex.def Info: Images/thermometer_nonvoters.png used on input line 48
+2.
+(pdftex.def)             Requested size: 469.75502pt x 469.41083pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--491
+
+ []
+
+[12 <./Images/age.png>] [13] [14 <./Images/thermometer_distribution.png>]
+<Images/ordinal_scale.png, id=99, 857.1222pt x 860.013pt>
+File: Images/ordinal_scale.png Graphic file (type png)
+
+<use Images/ordinal_scale.png>
+Package pdftex.def Info: Images/ordinal_scale.png used on input line 502.
+(pdftex.def)             Requested size: 422.77664pt x 424.2052pt.
+ [15 <./Images/thermometer_nonvoters.png>]
+<Images/ordinal_spending.png, id=106, 715.473pt x 354.8457pt>
+File: Images/ordinal_spending.png Graphic file (type png)
+
+<use Images/ordinal_spending.png>
+Package pdftex.def Info: Images/ordinal_spending.png used on input line 523.
+(pdftex.def)             Requested size: 469.75502pt x 232.97519pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--530
+
+ []
+
+[16 <./Images/ordinal_scale.png>] [17 <./Images/ordinal_spending.png>]
+<Images/ordinal_other.png, id=119, 715.473pt x 570.933pt>
+File: Images/ordinal_other.png Graphic file (type png)
+
+<use Images/ordinal_other.png>
+Package pdftex.def Info: Images/ordinal_other.png used on input line 534.
+(pdftex.def)             Requested size: 469.75502pt x 374.84808pt.
+ [18 <./Images/ordinal_other.png>]
+<Images/ordinal_dk.png, id=126, 721.2546pt x 715.473pt>
+File: Images/ordinal_dk.png Graphic file (type png)
+
+<use Images/ordinal_dk.png>
+Package pdftex.def Info: Images/ordinal_dk.png used on input line 544.
+(pdftex.def)             Requested size: 469.75502pt x 465.99083pt.
+
+<Images/ordinal_dk_total.png, id=128, 715.473pt x 353.4003pt>
+File: Images/ordinal_dk_total.png Graphic file (type png)
+
+<use Images/ordinal_dk_total.png>
+Package pdftex.def Info: Images/ordinal_dk_total.png used on input line 553.
+(pdftex.def)             Requested size: 469.75502pt x 232.0262pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--559
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19 <./Images/ordinal_dk.png>]
+<Images/categorical_race.png, id=136, 715.473pt x 208.8603pt>
+File: Images/categorical_race.png Graphic file (type png)
+
+<use Images/categorical_race.png>
+Package pdftex.def Info: Images/categorical_race.png used on input line 565.
+(pdftex.def)             Requested size: 469.75502pt x 137.12796pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--571
+
+ []
+
+<Images/categorical_religion.png, id=138, 715.473pt x 208.8603pt>
+File: Images/categorical_religion.png Graphic file (type png)
+
+<use Images/categorical_religion.png>
+Package pdftex.def Info: Images/categorical_religion.png used on input line 575
+.
+(pdftex.def)             Requested size: 469.75502pt x 137.12796pt.
+
+<Images/categorical_intent.png, id=140, 711.8595pt x 208.8603pt>
+File: Images/categorical_intent.png Graphic file (type png)
+
+<use Images/categorical_intent.png>
+Package pdftex.def Info: Images/categorical_intent.png used on input line 584.
+(pdftex.def)             Requested size: 469.75502pt x 137.8291pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--590
+
+ []
+
+[20 <./Images/ordinal_dk_total.png> <./Images/categorical_race.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 593--596
+
+ []
+
+[21 <./Images/categorical_religion.png> <./Images/categorical_intent.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+[]|\OT1/cmr/m/n/10 Mean
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+[]|\OT1/cmr/m/n/10 Pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+[]|\OT1/cmr/m/n/10 #
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+[]|\OT1/cmr/m/n/10 Mean
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+[]|\OT1/cmr/m/n/10 Pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+[]|\OT1/cmr/m/n/10 #
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+[]|\OT1/cmr/m/n/10 Mean
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+[]|\OT1/cmr/m/n/10 Pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 692--693
+[]|\OT1/cmr/m/n/10 #
+ []
+
+
+Overfull \hbox (7.45924pt too wide) in paragraph at lines 684--703
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--710
+
+ []
+
+[23]
+Overfull \hbox (2.87654pt too wide) in paragraph at lines 732--732
+[]|\OT1/cmr/m/n/10 Optimized
+ []
+
+
+Overfull \hbox (2.87654pt too wide) in paragraph at lines 732--732
+[]|\OT1/cmr/m/n/10 Optimized
+ []
+
+
+Overfull \hbox (2.87654pt too wide) in paragraph at lines 732--732
+[]|\OT1/cmr/m/n/10 Optimized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--747
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--777
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--777
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 803--808
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--808
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--842
+
+ []
+
+[26] <Images/survey_model_error.png, id=181, 711.1368pt x 637.4214pt>
+File: Images/survey_model_error.png Graphic file (type png)
+
+<use Images/survey_model_error.png>
+Package pdftex.def Info: Images/survey_model_error.png used on input line 850.
+(pdftex.def)             Requested size: 469.75502pt x 421.0593pt.
+
+<Images/margin.png, id=183, 351.9549pt x 213.9192pt>
+File: Images/margin.png Graphic file (type png)
+ <use Images/margin.png>
+Package pdftex.def Info: Images/margin.png used on input line 859.
+(pdftex.def)             Requested size: 281.85587pt x 171.31837pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--864
+
+ []
+
+[27]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Images/recall.png, id=188, 809.424pt x 204.5241pt>
+File: Images/recall.png Graphic file (type png)
+ <use Images/recall.png>
+Package pdftex.def Info: Images/recall.png used on input line 868.
+(pdftex.def)             Requested size: 469.75502pt x 118.69894pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 865--878
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 865--878
+
+ []
+
+[28 <./Images/survey_model_error.png>] [29 <./Images/margin.png> <./Images/reca
+ll.png>] <Images/categorical_intent_2012.png, id=202, 711.8595pt x 208.8603pt>
+File: Images/categorical_intent_2012.png Graphic file (type png)
+
+<use Images/categorical_intent_2012.png>
+Package pdftex.def Info: Images/categorical_intent_2012.png used on input line 
+881.
+(pdftex.def)             Requested size: 469.75502pt x 137.8291pt.
+
+<Images/recall_margin.png, id=204, 409.0482pt x 218.2554pt>
+File: Images/recall_margin.png Graphic file (type png)
+
+<use Images/recall_margin.png>
+Package pdftex.def Info: Images/recall_margin.png used on input line 889.
+(pdftex.def)             Requested size: 375.80544pt x 200.5243pt.
+ [30 <./Images/categorical_intent_2012.png> <./Images/recall_margin.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 899--906
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 899--906
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 899--906
+
+ []
+
+[31] (./Project Report.aux) ) 
+Here is how much of TeX's memory you used:
+ 4564 strings out of 493014
+ 69757 string characters out of 6133351
+ 156857 words of memory out of 5000000
+ 8013 multiletter control sequences out of 15000+600000
+ 12560 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,12n,40p,1144b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on "Project Report.pdf" (31 pages, 1836486 bytes).
+PDF statistics:
+ 284 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 254 words of extra memory for PDF output out of 10000 (max. 10000000)
+
